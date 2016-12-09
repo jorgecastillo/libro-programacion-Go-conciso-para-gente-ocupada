@@ -4,94 +4,94 @@ Este es un curso introductorio al lenguaje Go, en esta serie de tutoriales no va
 
 A continuacion el indice de las entradas que componen este curso
 
-Empezando con lenguaje Go
+### Empezando con lenguaje Go
   https://www.tutofacil.info/empezando-con-go-sintaxis-de-golang/
 
-Hablemos de las variables en Go
+### Hablemos de las variables en Go
   https://www.tutofacil.info/hablemos-de-las-variables-en-go/
 
-Los comentarios en Golang
+### Los comentarios en Golang
   https://www.tutofacil.info/los-comentarios-en-golang/
 
-Operaciones aritmeticas en Golang
+### Operaciones aritmeticas en Golang
   https://www.tutofacil.info/operaciones-aritmeticas-en-golang/
 
-Funciones Matemáticas en Golang
+### Funciones Matemáticas en Golang
   https://www.tutofacil.info/funciones-matematicas-en-golang/
 
-En Go tambien hay Operadores de incremento y decremento
+### En Go tambien hay Operadores de incremento y decremento
   https://www.tutofacil.info/operadores-de-incremento-y-decremento-en-golang/
 
-Operadores de Comparación en Golang
+### Operadores de Comparación en Golang
   https://www.tutofacil.info/operadores-de-comparacion-en-golang/
 
-Operadores Logicos en Golang
+### Operadores Logicos en Golang
   https://www.tutofacil.info/operadores-logicos-en-golang/
 
-Recibir valores desde el teclado en Golang
+### Recibir valores desde el teclado en Golang
   https://www.tutofacil.info/recibir-valores-desde-el-teclado-en-golang/
 
-Sentencias de bifurcacion en Go, contrucciones de decision en Golang
+### Sentencias de bifurcacion en Go, contrucciones de decision en Golang
   https://www.tutofacil.info/sentencias-de-bifurcacion-en-go-contrucciones-de-decision-en-golang/
 
-La sentencia switch…case en Golang
+### La sentencia switch…case en Golang
   https://www.tutofacil.info/la-sentencia-switchcase-en-golang/
 
-Ciclo for en golang
+### Ciclo for en golang
   https://www.tutofacil.info/ciclo-for-en-golang/
 
-Ciclo While en golang
+### Ciclo While en golang
   https://www.tutofacil.info/ciclo-while-en-golang/
 
-El uso de las sentencias break y continue en Golang
+### El uso de las sentencias break y continue en Golang
   https://www.tutofacil.info/el-uso-de-las-sentencias-break-y-continue-en-golang/
 
-Los Arreglos en Golang
+### Los Arreglos en Golang
   https://www.tutofacil.info/los-arreglos-en-golang/
 
-Los Slice de golang
+### Los Slice de golang
   https://www.tutofacil.info/los-slice-de-golang/
 
-Como usar los mapas en golang
+### Como usar los mapas en golang
   https://www.tutofacil.info/como-usar-los-mapas-en-golang/
 
-Como crear funciones en Golang
+### Como crear funciones en Golang
   https://www.tutofacil.info/como-crear-funciones-en-golang/
 
-Funciones Closure en Golang
+### Funciones Closure en Golang
   https://www.tutofacil.info/funciones-closure-en-golang/
 
-Funciones Recursivas en Golang
+### Funciones Recursivas en Golang
   https://www.tutofacil.info/funciones-recursivas-en-golang/
 
-Punteros en Go, uso de punteros en Golang 
+### Punteros en Go, uso de punteros en Golang 
   https://www.tutofacil.info/punteros-en-go-uso-de-punteros-en-golang/
 
-Como crear y usar estructuras en Golang 
+### Como crear y usar estructuras en Golang 
   https://www.tutofacil.info/como-crear-y-usar-estructuras-en-golang/
 
-Como usar metodos en Lenguaje Go
+### Como usar metodos en Lenguaje Go
   https://www.tutofacil.info/como-usar-metodos-en-lenguaje-go/
 
-Operaciones con cadenas en Go – Concatenar cadenas
+### Operaciones con cadenas en Go – Concatenar cadenas
   https://www.tutofacil.info/operaciones-con-cadenas-en-go-concatenar-cadenas/
 
-Conversion de cadenas a número en Lenguaje Go
+### Conversion de cadenas a número en Lenguaje Go
   https://www.tutofacil.info/conversion-de-cadenas-a-numero-en-lenguaje-go/
 
-Separar cadenas con la funcion Split() en Golang
+### Separar cadenas con la funcion Split() en Golang
   https://www.tutofacil.info/separar-cadenas-con-la-funcion-split-en-golang/
 
-Obtener el tamaño de una cadena con la funcion len en Lenguaje Go
+### Obtener el tamaño de una cadena con la funcion len en Lenguaje Go
   https://www.tutofacil.info/obtener-el-tamano-de-una-cadena-con-la-funcion-len-en-lenguaje-go/
 
-Copiar datos desde una cadena de texto en Lenguaje Go 
+### Copiar datos desde una cadena de texto en Lenguaje Go 
   https://www.tutofacil.info/copiar-datos-desde-una-cadena-de-texto-en-lenguaje-go/
 
-Cambiar cadenas de mayusculas a minusculas en Lenguaje Go 
+### Cambiar cadenas de mayusculas a minusculas en Lenguaje Go 
   https://www.tutofacil.info/cambiar-cadenas-de-mayusculas-a-minusculas-en-lenguaje-go/
 
-Operaciones con archivos en lenguaje GO escritura y lectura de archivos 
+### Operaciones con archivos en lenguaje GO escritura y lectura de archivos 
   https://www.tutofacil.info/operaciones-con-archivos-en-lenguaje-go-escritura-y-lectura-de-archivos/
 
 
