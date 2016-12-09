@@ -5,6 +5,7 @@ Este es un curso introductorio al lenguaje Go, en esta serie de tutoriales no va
 A continuacion el indice de las entradas que componen este curso
 
 Empezando con lenguaje Go
+
 https://www.tutofacil.info/empezando-con-go-sintaxis-de-golang/
 
 Hablemos de las variables en Go
